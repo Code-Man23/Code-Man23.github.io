@@ -105,7 +105,7 @@
   padding-bottom: 1rem;
 }
 .card-work {
-  width: 18rem;
+  width: 20rem;
 }
 
 /* Contact Section */
@@ -125,9 +125,3 @@
 .contact-spacing {
   padding-top: 2rem;
 }
-form button {
-  background-color: grey;
-}
-
-
-/* MEDIA QUERIES */
